@@ -11,7 +11,7 @@
 - pandas
 - nltk
 - scikit-learn
-#### Model was trained on Kaggle dataset with 1.6 million labeled tweets
+#### [Model was trained on Kaggle dataset with 1.6 million labeled tweets](https://www.kaggle.com/kazanova/sentiment140)
 #### Tasks Going Forward: 
 - Set up Twitter API to be able to take tweets in real time, potentially from a user's own timeline as well
 - Fix model since the results on politicians' tweets don't quite match with expectations. I believe some words get lost in hashtags and slang.
